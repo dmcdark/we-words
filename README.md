@@ -1,7 +1,5 @@
-# -we-
 macOS 3.0.0 20261107
-
-# 来源：https://paste.debian.net/hidden/f3b05f7b
+来源：https://paste.debian.net/hidden/f3b05f7b
 # source1: /Library/Input Methods/WeType.app/Contents/Resources/imeData.bundle/cell_dict.ssrc.zh
 # count1 : 13362
 # unresolved1: 24 条仅有哈希、文件内无明文 -> 0x00b1b2a7 0x1649bb6e 0x1a3e8033 0x1ff11db0 0x26bf570c 0x3c7e1b3d 0x42b88aed 0x4519c17b 0x51ed71ce 0x52fece55 0x788f6aab 0x947c1450 0xa236070f 0xc2d41040 0xc6f1bf7b 0xd1a21e92 0xdbb347e7 0xde75a428 0xe11e7e8d 0xe7c7fff7 0xee69690e 0xf7c9dc42 0xf9b2a01b 0xfee9bb27
